@@ -1,4 +1,4 @@
-# intro-to-python-code
+# CS1100-intro-python-programming
 Introduction to Python Programming Project - CS1100
 
 
